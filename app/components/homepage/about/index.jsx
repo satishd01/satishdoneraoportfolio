@@ -1,3 +1,6 @@
+/* eslint-disable react/no-unescaped-entities */
+
+
 // @flow strict
 
 import { personalData } from "@/utils/data/personal-data";
